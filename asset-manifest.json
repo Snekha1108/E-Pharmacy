@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/E-Pharmacy/static/css/main.f0b83417.css",
+    "main.js": "/E-Pharmacy/static/js/main.8fd01b25.js",
+    "static/js/453.e2178a37.chunk.js": "/E-Pharmacy/static/js/453.e2178a37.chunk.js",
+    "static/media/banner.jpg": "/E-Pharmacy/static/media/banner.7dae789d1ab032322850.jpg",
+    "static/media/burnom.jpg": "/E-Pharmacy/static/media/burnom.912a3aad5685392af703.jpg",
+    "index.html": "/E-Pharmacy/index.html",
+    "main.f0b83417.css.map": "/E-Pharmacy/static/css/main.f0b83417.css.map",
+    "main.8fd01b25.js.map": "/E-Pharmacy/static/js/main.8fd01b25.js.map",
+    "453.e2178a37.chunk.js.map": "/E-Pharmacy/static/js/453.e2178a37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0b83417.css",
+    "static/js/main.8fd01b25.js"
+  ]
+}
